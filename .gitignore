@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Raw match data caches
+data/raw/
+*.csv
+
+# Model binaries (optional, keep or git lfs)
+# models/*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
